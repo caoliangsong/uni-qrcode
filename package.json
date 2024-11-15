@@ -1,6 +1,6 @@
 {
-  "name": "uniapp-qrcode",
-  "version": "1.0.1",
+  "name": "@sepveneto/uniapp-qrcode",
+  "version": "1.0.3",
   "description": "微信小程序，支付宝小程序条码、二维码生成模块",
   "main": "index.js",
   "scripts": {},
@@ -14,13 +14,12 @@
     "条码",
     "二维码"
   ],
-  "author": "404508644 (404508644@qq.com)",
+  "author": "SepVeneto (sepveneto@qq.com)",
   "license": "MIT",
-  "homepage": "https://github.com/caoliangsong/uni-qrcode.git",
+  "homepage": "https://github.com/SepVeneto/uni-qrcode",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caoliangsong/uni-qrcode.git"
-  },
-  "devDependencies": {}
+    "url": "git+https://github.com/SepVeneto/uni-qrcode"
+  }
 }
